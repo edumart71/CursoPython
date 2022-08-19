@@ -1,0 +1,4 @@
+Una line con texto
+otra line de texto
+Esto es otra cadena
+Otra linea mas abajo de todo
